@@ -1,4 +1,4 @@
-# 💊 Drug Sales Dashboard (Power BI)
+# 💊 Drug Sales Analysis (Power BI)
 
 ## 📌 Description
 This dashboard provides a comprehensive analysis of **drug sales performance** across multiple dimensions such as revenue, profit, customer demographics, and geography.  
@@ -70,7 +70,7 @@ The interactive **Drug Sales Dashboard** is designed for pharma companies, sales
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Demo](<img width="1302" height="732" alt="image" src="https://github.com/user-attachments/assets/4baf7975-ddb7-46c5-aef0-3bbfd32de67d" />)
+![Dashboard Demo](https://github.com/PRIYANKALENKA07/Drug-Sale-Analysis/commit/77f24e1ce7573baaed3212d4f272bc91f22eeebd).
   
 
 ---
