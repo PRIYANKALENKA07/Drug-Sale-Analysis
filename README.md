@@ -1,71 +1,79 @@
+# 💊 Drug Sales Dashboard (Power BI)
 
-# 💊 Drug Sales Analysis (Power BI)
+## 📌 Description
+This dashboard provides a comprehensive analysis of **drug sales performance** across multiple dimensions such as revenue, profit, customer demographics, and geography.  
+The dataset included details on drug sales transactions, customer profiles, and buying behavior.  
 
-📊 This repository contains a Power BI dashboard analyzing **drug sales performance** across revenue, profit, customers, and countries.  
-It provides business insights into top/bottom drugs, customer demographics, and regional revenue distribution.  
+After cleaning and preparing the data, I used **Power BI** to build interactive dashboards highlighting business KPIs like revenue trends, profit margins, top/bottom performing drugs, and customer insights.  
 
----
-
-## 🚀 Key Highlights (May 2023)
-- **Revenue:** $6M (↑12.8% from April)  
-- **Profit:** $5M (↑12.4% from April)  
-- **COGS:** $1M (↑14.7% from April)  
-- **Profit Margin:** 81.76%  
-
----
-
-## 🏆 Top & Bottom Analysis
-- **Top Performing Drugs (by Revenue)**  
-  - Lisinopril: $3.2M  
-  - Doxycycline: $3.1M  
-  - Ergocalciferol: $3.0M  
-
-- **Underperforming Drugs (by Profit)**  
-  - Amoxicillin, Fluticasone, Warfarin, Hydrochlorothiazide, Montelukast  
-  - Contribute only **0.6%** of total profit.  
-
-- **Top Performing Customers (by Profit)**  
-  - Bob Jones, Jane Jones, David Johnson, John Jones, John Brown  
-  - Contribute **4.2%** of total profit.  
+Key takeaways include:  
+- Total revenue: **$64.67M**  
+- Average monthly revenue: **$6M** (↑12.8% in May)  
+- Profit margin: **81.76%** with **$5M profit** in May  
+- Top drugs: **Lisinopril, Doxycycline, Ergocalciferol**  
+- Canada & Australia contribute ~68% of revenue  
 
 ---
 
-## 👥 Customer Insights
-- **Revenue by Age Group**  
-  - 51+ and 41–50 age groups generate **76% of total revenue**.  
-- **Revenue by Gender**  
-  - Male: $1.27M | Female: $0.60M | Other: $1.12M.  
-- **Revenue by Buyer Type**  
-  - Sellers: $2.77M (92%)  
-  - Users: $0.23M (8%).  
+## 📊 Overview
+The interactive **Drug Sales Dashboard** is designed for pharma companies, sales managers, and business analysts to:  
+- Monitor sales performance in real time  
+- Identify profitable drugs and underperforming ones  
+- Understand customer demographics and buying patterns  
+- Compare revenue contributions across regions and countries  
+- Improve decision-making with actionable insights  
 
 ---
 
-## 🌍 Geographic Insights
-- **Revenue by Country**  
-  - Canada: $1.3M  
-  - Australia: $0.7M  
-  - Germany, France, UK, USA: Remaining share.  
-- Canada & Australia together contribute **~68% of revenue**.  
+## ⭐ Key Features
+**1. Revenue & Profit Tracking**  
+- Month-over-month (MoM) revenue growth analysis  
+- COGS vs Profit margins across drug categories  
+- Trendline for revenue performance  
+
+**2. Top & Bottom Analysis**  
+- Top 5 performing drugs by revenue & profit  
+- Underperforming drugs (0.6% profit contribution)  
+- Top customers contributing 4.2% of profit  
+
+**3. Customer Insights**  
+- Revenue split by **age group (41–50 & 51+ = 76% of revenue)**  
+- Gender-wise revenue analysis (Male, Female, Other)  
+- Buyer type (Seller vs User → 92% sellers)  
+
+**4. Geographic Insights**  
+- Country-wise revenue comparison (Canada, Australia, Germany, UK, USA, France)  
+- Canada & Australia together = **68% of total revenue**  
+
+**5. Interactive Exploration**  
+- Filters for Year/Month  
+- Drill-down into customer, drug, and transaction details  
+- Exportable reports (PDF, Excel)  
+
+---
+
+## 📌 5 Actionable Insights for Stakeholders
+- **Lisinopril generates $3.2M** → Focus on supply chain efficiency to sustain revenue  
+- **Underperforming drugs <1% profit** → Consider discontinuing or revising pricing strategy  
+- **41–50 & 51+ age groups = 76% revenue** → Target marketing campaigns toward older demographics  
+- **Canada & Australia drive 68% revenue** → Expand operations/marketing in these regions  
+- **Sellers = 92% of buyers** → Strengthen B2B partnerships for long-term contracts  
 
 ---
 
 ## 📂 Repository Structure
-- `Drug dashboard.pbix` → Power BI file (open with Power BI Desktop for interactive use).  
-- `Drug dashboard.pdf` → Exported report (static version for quick viewing).  
+- `Drug dashboard.pbix` → Power BI file (open with Power BI Desktop for interactive analysis)  
+- `Drug dashboard.pdf` → Exported report (static version for quick viewing)  
+
+👉 [Download PBIX (Raw File)](https://github.com/<your-username>/<repo-name>/raw/main/Drug%20dashboard.pbix)  
 
 ---
 
-## 🔧 How to Use
-1. Download the `.pbix` file.  
-2. Open with **Power BI Desktop**.  
-3. Explore filters (year, month, customer, drug).  
-
----
-
-## 📌 Total Revenue (Full Period)
-💰 **$64,674,169**  
+## 📸 Dashboard Preview
+![Dashboard Demo](<img width="1302" height="732" alt="image" src="https://github.com/user-attachments/assets/4baf7975-ddb7-46c5-aef0-3bbfd32de67d" />)
+  
 
 ---
 
 👩‍💻 Created by **Priyanka Lenka**  
+
