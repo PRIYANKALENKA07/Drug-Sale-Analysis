@@ -65,7 +65,7 @@ The interactive **Drug Sales Dashboard** is designed for pharma companies, sales
 - `Drug dashboard.pbix` → Power BI file (open with Power BI Desktop for interactive analysis)  
 - `Drug dashboard.pdf` → Exported report (static version for quick viewing)  
 
-👉 [Download PBIX (Raw File)](https://github.com/<your-username>/<repo-name>/raw/main/Drug%20dashboard.pbix)  
+👉 [Download PBIX (Raw File)](https://github.com/PRIYANKALENKA07/Drug-Sale-Analysis/blob/main/Drug%20dashboard.pbix) 
 
 ---
 
