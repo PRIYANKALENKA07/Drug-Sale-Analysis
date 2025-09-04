@@ -70,5 +70,6 @@ The interactive **Drug Sales Dashboard** is designed for pharma companies, sales
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Demo](https://github.com/PRIYANKALENKA07/Drug-Sale-Analysis/commit/77f24e1ce7573baaed3212d4f272bc91f22eeebd.png)
+![Dashboard Demo](https://raw.githubusercontent.com/PRIYANKALENKA07/Drug-Sale-Analysis/main/Drug%20Dashboard.png)
+
 
